@@ -1,4 +1,8 @@
 REMIX DEFAULT WORKSPACE
+* ERC1155を試しで触ってみる
+* sushiItemとしてERC1155の独自トークンをOpenseaに発行
+* opensea上のトークンは<https://testnets.opensea.io/assets/0x31A6757B559c378dd66446f60f4691fA0496065B/0>
+
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
